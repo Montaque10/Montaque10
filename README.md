@@ -3,20 +3,6 @@ Hi, I'm Montaque 👋
 🌐 Full-Stack Developer with a passion for building scalable, high-performance web applications.📚 Certified in Meta Front-End (React, HTML, CSS, JavaScript), Meta Back-End (Python, Django, APIs), and Google Cloud.🚀 Focused on creating seamless user experiences and efficient backend systems.
 
 
-
-🔧 Tech Stack
-
-Front-End: HTML, CSS, JavaScript, React.js, Tailwind CSS
-
-Back-End: Python, Django, Django REST Framework
-
-Databases: PostgreSQL, MongoDB, SQLite
-
-DevOps: Git, GitHub, Docker, Kubernetes, CI/CD
-
-Cloud: Google Cloud, Firebase, Azure, AWS
-
-
 📈 Current Goals
 
 💥 Build and deploy full-stack projects
@@ -28,7 +14,7 @@ Cloud: Google Cloud, Firebase, Azure, AWS
 📫 Get in Touch
 
 Email: montaque.paulse@gmail.com
-
+Cellphone: (+27) 813554332
 
 
 ## 🌐 Socials:
